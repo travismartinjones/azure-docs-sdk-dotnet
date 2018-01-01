@@ -733,7 +733,7 @@
         <ReturnType>System.Int64</ReturnType>
       </ReturnValue>
       <Docs>
-        <summary>Gets or sets the enqueued sequence number of the message.</summary>
+        <summary>Gets the enqueued sequence number of the message.</summary>
         <value>The enqueued sequence number of the message.</value>
         <remarks>To be added.</remarks>
       </Docs>
